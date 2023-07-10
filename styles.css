@@ -1,24 +1,22 @@
 /* header related styles */
-.profile{
-    float: right;
+.banner{
     width: 635px;
     height: 800px;
-    flex-shrink: 0;
-    padding: 50px 240px;
-   
-    
+    float: right;
+    justify-content: space-around;
+    margin-top: 50x;
+    margin-right: 240px;
 }
 
 .container{
     width: 1920px;
-    height: 850px;
-    background-color: rgba(229, 84, 115, 0.10)
-    
+    height: 800px;
+    background-color: rgba(229, 84, 115, 0.10);
 }
 
 .content{ 
     padding-top: 197px;
     padding-left: 240px;
-    
-    
+    bottom: 365px;
+     
 }
