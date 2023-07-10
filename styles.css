@@ -1,3 +1,9 @@
+/* font related styles */
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
 /* header related styles */
 .banner{
     width: 635px;
@@ -18,5 +24,35 @@
     padding-top: 197px;
     padding-left: 240px;
     bottom: 365px;
+    justify-content: space-around;
      
+}
+
+.container-title{
+    text-align: center;
+    width: 1920px;
+    height: 4867px;
+}
+.pic1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.pic2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.pic3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+
+/* main contents docx */
+
+.container-sign{
+    margin-top: 230px;
+    margin-left: 423px;
+    margin-bottom: 342px;
 }
