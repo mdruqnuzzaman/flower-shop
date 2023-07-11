@@ -154,3 +154,14 @@ body{
     color: #E55473;
 
 }
+
+.signbtn{
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
