@@ -52,7 +52,52 @@ body{
 /* main contents docx */
 
 .container-sign{
-    margin-top: 230px;
-    margin-left: 423px;
-    margin-bottom: 342px;
+    text-align: center;
+    width: 1922px;
+    height: 620px;
+    background: rgba(229, 84, 115, 0.05);
+
+
+}
+
+.signuppic{
+    padding: 100px;
+    padding-bottom: 100px;
+    margin-right: 429px;
+    margin-bottom: 100px;
+    width: 318px;
+    height: 420px;
+    float: right;
+}
+
+.content{
+    padding-top: 197px;
+    padding-left: 240px;
+    bottom: 365px;
+}
+
+/* instragram related docx */
+
+.text-title{
+ 
+text-align: center;
+background-color: blue;
+back
+
+}
+
+.text.title{
+    text-align: centr;
+}
+
+/* subscribe related docs */
+
+.subscribe{
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    background-image: url(img/Rectangle\ 9.png);
+    margin-top: 140px;
+    margin-left: 240px;
+    margin-right:240px;
 }
