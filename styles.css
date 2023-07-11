@@ -1,3 +1,7 @@
+*{
+    padding: 0;
+}
+
 /* font related styles */
 
 body{
@@ -78,26 +82,34 @@ body{
 
 /* instragram related docx */
 
-.text-title{
- 
-text-align: center;
-background-color: blue;
-back
-
-}
-
-.text.title{
-    text-align: centr;
-}
 
 /* subscribe related docs */
 
 .subscribe{
+    background-image: url(img/Rectangle\ 9.png);
     width: 1440px;
     height: 449px;
-    border-radius: 8px;
-    background-image: url(img/Rectangle\ 9.png);
-    margin-top: 140px;
     margin-left: 240px;
-    margin-right:240px;
+    margin-right: 240px;
+    margin-top: 128px;
+    margin-bottom: 128px;
+
+.content-subscribe{
+    padding: 122px; 
+}
+
+.head1{
+    padding: 122px;
+    padding-right: 534px;
+    padding-left: 533px;
+}
+
+}
+/* footer container related docx */
+
+.footer container{
+
+    background-color:#111010;
+
+  
 }
