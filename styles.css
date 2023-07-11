@@ -14,6 +14,20 @@ body{
     margin-right: 240px;
 }
 
+.bold{
+   color: #E55473; 
+}
+
+.btn{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+}
+
+
 .container{
     width: 1920px;
     height: 800px;
@@ -128,4 +142,15 @@ body{
 
 .btn color{
     color: red;
+}
+
+.about{
+    color: #111010;
+    background-color: azure;
+}
+
+
+.flower{
+    color: #E55473;
+
 }
